@@ -1,0 +1,54 @@
+.link{
+background: #DDD000;
+border-radius: 15px;
+text-decoration: none;
+font-style: italic;
+}
+.link a{
+text-decoration: none;
+
+}
+
+.info p{
+	background: #F96F00;
+	border-radius: 10px;
+	font-size: 18px;
+	padding: 2px;
+	margin:5px;
+	color: White;
+}
+.info p1{
+	background: #ED1C24;
+	border-radius: 10px;
+	font-size: 18px;
+	padding: 2px;
+	margin:5px;
+	color: White;
+}
+
+.info h3{
+	background: #D6FC5D;
+	border-radius: 10px;
+	font-size: 18px;
+	padding: 2px;
+	margin:5px;
+}
+.info h4{
+	background: #D6FC5D;
+	border-radius: 10px;
+	font-size: 18px;
+	padding: 2px;
+	margin:5px;
+	color: Red;
+}
+
+
+.info img{
+	width: 150px;
+	height: 150px;
+}
+
+.p1{
+	color: Red;
+}
+

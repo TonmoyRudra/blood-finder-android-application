@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="map_button_normal">#ffffff</color>
+    <color name="map_button_pressed">#D80F0F</color>
+    
+    <color name="main_button_pressed">#FFFAF0</color>
+    
+     
+     
+    <color name="white">#ffffff</color>
+    <color name="save_button_pressed">#D3D3D3</color>
+</resources>

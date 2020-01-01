@@ -1,0 +1,19 @@
+$mysql_host = "mysql1.000webhost.com";
+$mysql_database = "a3064074_blooddb";
+$mysql_user = "a3064074_blood";
+$mysql_password = "blood12345";
+
+webdite name: http://blooddonate.web44.net/
+
+login page: http://members.000webhost.com/login.php 
+
+
+
+FTP host name 	blooddonate.web44.net
+FTP user name 	a3064074
+FTP password 	blood12345
+Folder to upload files 	public_html
+
+-----------------------------------------
+gmail:blooddonateiiuc@gmail.com
+pass: blood12345

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border_ash"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#B00000" >
+
+        <TextView
+            android:id="@+id/nameListTextview"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="2dp"
+            android:layout_weight="3"
+            android:background="#FFFFFF"
+            android:gravity="center"
+            android:text="Name"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="13dp" />
+
+        <TextView
+            android:id="@+id/bloodGroupListTextView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:gravity="center"
+            android:text="BG"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="13dp" />
+
+        <TextView
+            android:id="@+id/areaListTextView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#FFFFFF"
+            android:gravity="center"
+            android:text="Place"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="13dp" />
+    </LinearLayout>
+
+</LinearLayout>
